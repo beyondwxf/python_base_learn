@@ -21,6 +21,7 @@ print(s1.readlines(3))
 print(s1.readlines())
 print(s1.read())
 
+
 b.write('123123')
 s1.close()
 s2.close()
